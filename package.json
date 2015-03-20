@@ -1,7 +1,7 @@
 {
   "name": "grunt-ags-admin",
   "description": "Grunt task to control ArcGIS Server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/gavinr/grunt-ags-admin",
   "author": {
     "name": "Gavin Rehkemper",
